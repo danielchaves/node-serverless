@@ -1,4 +1,4 @@
-# Node Scaffold - CM
+# Node Serverless Scaffold - CM
 
 
 ## Migrations
